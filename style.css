@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.images{
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
